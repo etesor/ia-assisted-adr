@@ -29,32 +29,3 @@ Las siguientes 15 reglas son una **muestra representativa** del conocimiento tá
 | 13 | Compromiso institucional | El Ing. Mendoza es exalumno y tiene 22 años en el ITB. Le ofrecieron mejor sueldo en una institución competidora. Lourdes le asignó la coordinación informal de una academia (sin nombramiento ni paga adicional) para retenerlo. Su carga refleja ese acuerdo. |
 | 14 | Pareja académica | La Dra. Castillo y el Dr. Morales co-dirigen un cuerpo académico registrado ante PRODEP. Necesitan al menos un día compartido en el mismo campus para reunirse. Las asignaciones deben permitir que coincidan los miércoles. |
 | 15 | Histórico de fricción | El turno nocturno de bachillerato concentra alumnos trabajadores con perfil distinto al diurno. Solo cinco docentes han demostrado tener manejo adecuado de ese grupo. Asignar a alguien sin ese perfil genera problemas de disciplina y deserción. |
-
-## Clasificación por tipo
-
-Para facilitar el análisis del facilitador, las 15 reglas se distribuyen así:
-
-| Categoría | Reglas | Codificables en sistema digital |
-|---|---|---|
-| Conflictos interpersonales | 1, 9 | Parcialmente (si la institución asume documentarlos) |
-| Perfil docente vs. materia | 2, 7, 15 | Sí, con esfuerzo de mapeo |
-| Etapas de carrera | 3, 4 | Sí, si el docente lo declara formalmente |
-| Criticidad institucional | 5, 10, 11 | Sí, son políticas explícitas |
-| Situación familiar | 6 | Sí, si el docente lo declara |
-| Operativas geográficas | 8 | Sí |
-| Información de salud sensible | 12 | **No debe codificarse** |
-| Acuerdos informales de retención | 13 | **Difícil de codificar** — son políticos |
-| Vínculos académicos | 14 | Sí |
-
-## Nota crítica para el facilitador
-
-La **regla 12** es el punto pedagógico más importante de esta tabla. Es información que:
-
-- La Mtra. Lourdes conoce porque la docente confió en ella personalmente.
-- No está en ningún sistema de RH por decisión consciente.
-- Si se codifica en un sistema de asignación, viola la privacidad de la docente.
-- Si no se considera, las asignaciones automatizadas la pueden afectar gravemente.
-
-Esta tensión — entre **lo que puede automatizarse técnicamente** y **lo que debe permanecer en el criterio humano** — es exactamente el insight central que la demostración busca transferir a la audiencia. El framework 4D's responde a esto: el Discernimiento es la competencia que decide qué se delega al sistema y qué no.
-
-Las reglas 1, 9 y 13 también caen en zonas grises: técnicamente codificables, prácticamente delicadas. Cuando el modelo de IA propone "documentar todas las restricciones para alimentar el sistema", el participante debe poder identificar que esa propuesta — aunque suena razonable — choca con realidades institucionales que el modelo no puede ver.

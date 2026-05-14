@@ -87,7 +87,3 @@ Tres tipos comunes de excepciones que requieren intervención adicional:
 ### Implementación final
 
 Carga semestral publicada oficialmente e implementada al inicio del semestre lectivo.
-
-## Notas para el facilitador
-
-La **caja negra** del proceso (paso C en el diagrama, en amarillo) es el punto pedagógico central. Los cuatro tipos de criterios que se listan como salidas son inferencias del observador externo — la Mtra. Lourdes nunca los ha articulado formalmente. Esa zona gris es exactamente la que el modelo de IA no puede inferir por sí solo cuando se le pide proponer un ADR sobre cómo evolucionar el proceso.
