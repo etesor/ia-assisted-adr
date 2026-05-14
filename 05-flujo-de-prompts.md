@@ -146,13 +146,13 @@ Descripción técnicamente correcta:
 - Integración: probablemente sugiere consultoría externa o un piloto acotado.
 - Riesgos: listará algunos genéricos (resistencia al cambio, calidad de datos de entrada).
 
-**El punto clave:** es probable que **NO mencione el antecedente de 2022** que ya estaba en el documento de contexto. Esa omisión es el material pedagógico del Momento 2.
+**El punto clave:** es probable que **NO mencione el antecedente de 2022** que ya estaba en el documento de contexto.
 
 ---
 
 ## Prompt 4 — Confrontar al modelo (Discernimiento activo)
 
-### Texto del prompt
+### Texto del prompt, si no menciona el evento de 2022
 
 ```
 Tu propuesta de optimización es técnicamente correcta, pero noté algo:
